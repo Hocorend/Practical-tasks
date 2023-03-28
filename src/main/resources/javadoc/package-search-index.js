@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"CountingRepeatedCharacters"},{"l":"SearchForTheFirstNonRepeatingCharacter"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"CharacterCounterPerLine"},{"l":"CountingRepeatedCharacters"},{"l":"SearchForTheFirstNonRepeatingCharacter"},{"l":"StringOfDigits"}];updateSearchResults();
