@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"CountingRepeatedCharacters","l":"CharacterCounter"},{"p":"SearchForTheFirstNonRepeatingCharacter","l":"SearchNonRepeatingCharacter"}];updateSearchResults();
